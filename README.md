@@ -18,3 +18,20 @@ This is a simple command-line Todo List application written in Python. It allows
 
    python todo.py
 
+You will see a menu with options to print todos, add a new todo, delete a todo, or quit the application.Use the corresponding number to select an option and follow the prompts.
+
+## Data Storage
+
+The todos are stored in a JSON file named todos.json in the same directory as todo.py. If the file doesn't exist, it will be created when you add your first todo. The file is automatically loaded when the application starts and saved when changes are made.
+
+## License
+
+This project is licensed under the MIT License.
+
+Save the code in a file called `todo.py` and the README content in a file called `README.md`. Place both files in the same directory.
+
+To use the application, navigate to the directory in your terminal or command prompt and run `python todo.py`. You will be presented with a menu where you can choose options to print todos, add a new todo, delete a todo, or quit the application.
+
+The todos are stored in a JSON file called `todos.json` in the same directory
+
+
